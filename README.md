@@ -13,7 +13,7 @@ A Flask web application to track daily expenses with interactive data visualizat
 `Python` `Flask` `SQLite` `HTML5` `CSS3` `JavaScript` `Chart.js`
 
 ## 📸 Screenshots
-[Apne app ke screenshots yaha add karna]
+![Dashboard](Screenshot%20(4).png)
 
 ## 🚀 How to Run Locally
 ```bash
